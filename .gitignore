@@ -1,0 +1,8 @@
+# Ignore secrets and local files
+*.env
+*.json
+
+# VS Code and Python cache
+.vscode/
+__pycache__/
+*.pyc
